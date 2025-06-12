@@ -1,6 +1,5 @@
 # 🍫 Chocolate Sales Business Performance Analysis
 
-
 ## 📊 Project Overview
 
 A comprehensive business performance analysis of chocolate sales data using Microsoft Excel. This project demonstrates advanced data analysis techniques, business intelligence insights, and professional dashboard creation.
